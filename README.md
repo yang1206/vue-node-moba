@@ -3,5 +3,5 @@
 ## 运行
 1.web端
   >web文件夹下
-  -npm install
-  +npm run serve
+  >npm install
+  >npm run serve
