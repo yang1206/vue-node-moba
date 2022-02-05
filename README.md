@@ -5,11 +5,13 @@
   >web文件夹下<br>
   npm install<br>
   npm run serve
-2.admin端
+  
+#2.admin端
   >admin文件夹下<br>
   npm install<br>
   npm run serve
-3.server端
+  
+#3.server端
   >serve文件夹下<br>
   npm install<br>
   npm run serve
